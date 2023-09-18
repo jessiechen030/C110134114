@@ -24,7 +24,6 @@ alert(s)
 | **Markdown** | **Less** | **Pretty** |
 | ------- | ------- | ------- |
 | *Still*      | renders  |**nicely**  |
-| 1   | 2   | 3   |
 
   
 Emphasis, aka italics, with *asterisks* or *underscores*.  
