@@ -34,7 +34,6 @@
 2. 楠梓校區
 3. 燕巢校區
 
-
 ```python
 s = "Python Highlighting syntax"
 print(s)
