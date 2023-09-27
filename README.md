@@ -16,33 +16,6 @@
 2
 ```
 
-|**Tables**|**Are**|**Cool**|
-|:---------|:----------:|-------:|
-|col 3 is  |right-aliged|   $1600|
-|col 2 is  |  centered  |     $12|
-|zebras stripes|are neat|      $1|
-
-|**Markdown**|**Less**|**Pretty**|
-|:-----------|:-------|:---------|
-|Still  |`renders`| **nicely**|
-|1      |    2    |          3|
-
-**粗體**
-*斜體*
-~~刪除線~~
-***粗斜體***
-
-|**Tables**|**Are**|**Cool**|
-|:---------|:----------:|-------:|
-|col 3 is  |right-aliged|   $1600|
-|col 2 is  |  centered  |     $12|
-|zebras stripes|are neat|      $1|
-
-|**Markdown**|**Less**|**Pretty**|
-|:-----------|:-------|:---------|
-|Still  |`renders`| **nicely**|
-|1      |    2    |          3|
-
 **粗體**
 *斜體*
 ~~刪除線~~
@@ -53,6 +26,21 @@ Strong emphasis, aka bold, with **asterisks** or **underscores.**
 Combined emphasis with **asterisks and *underscores.***
 Strikethrough uses two tildes. ~Scratch this:~
 
+|**Tables**|**Are**|**Cool**|
+|:---------|:----------:|-------:|
+|col 3 is  |right-aliged|   $1600|
+|col 2 is  |  centered  |     $12|
+|zebras stripes|are neat|      $1|
+
+|**Markdown**|**Less**|**Pretty**|
+|:-----------|:-------|:---------|
+|Still  |`renders`| **nicely**|
+|1      |    2    |          3|
+
+| **Markdown** | **Less** | **Pretty** |
+| ------- | ------- | ------- |
+| *Still*      | renders  |**nicely**  |
+
 ```python
 s = "Python Highlighting syntax"
 print(s)
@@ -62,8 +50,3 @@ print(s)
 var s = "javascript syntax text"
 alert(s)
 ```
-  
-| **Markdown** | **Less** | **Pretty** |
-| ------- | ------- | ------- |
-| *Still*      | renders  |**nicely**  |
-
