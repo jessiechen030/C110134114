@@ -1,5 +1,5 @@
 #### PERT/CPM圖
-![](PERT圖.jpg "PERT圖")
+![NKUST](PERT圖.jpg "PERT圖")
 
 #### 甘特圖
 ```mermaid
