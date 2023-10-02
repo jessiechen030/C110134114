@@ -9,13 +9,13 @@
 - [ ] 2nd thing
 - [ ] 3rd thing
 - [ ] 4th thing
-
-`small zone`
+- - -
+`小區塊`
 ```big zone
 1
 2
 ```
-
+- - -
 **粗體**
 *斜體*
 ~~刪除線~~
@@ -36,7 +36,7 @@ Strikethrough uses two tildes. ~Scratch this:~
    ..* note 1
    ..* note 2
    *** note 3
-
+- - -
 |**Tables**|**Are**|**Cool**|
 |:---------|:----------:|-------:|
 |col 3 is  |right-aliged|   $1600|
@@ -47,7 +47,7 @@ Strikethrough uses two tildes. ~Scratch this:~
 |:-----------|:-------|:---------|
 |Still  |`renders`| **nicely**|
 |1      |    2    |          3|
-
+- - -
 ```python
 s = "Python Highlighting syntax"
 print(s)
